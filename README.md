@@ -1,4 +1,6 @@
 # Project-Management-App---MEAN-STACK
+
+Please Navigate into the client folder to See the working demo gif
 A Single Page Application (SPA) to keep track of projects, their respective tasks, their status and priorities.
 
 
