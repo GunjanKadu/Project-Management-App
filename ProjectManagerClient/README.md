@@ -1,5 +1,7 @@
-# ProjectManagerClient
+# ProjectManagerClient Demo
 
+![](gif/ProjectManagement1.gif)
+![](gif/ProjectManagement2.gif)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 ## Development server
