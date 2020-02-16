@@ -1,7 +1,8 @@
 # Project-Management-App---MEAN-STACK
 
-Please Navigate into the client folder to See the working demo gif
-A Single Page Application (SPA) to keep track of projects, their respective tasks, their status and priorities.
+# Please Navigate into the client folder to See the working demo gif
+
+ A Single Page Application (SPA) to keep track of projects, their respective tasks, their status and priorities.
 
 
 This application is developed using MEAN stack such as Angular 6, Node JS, Express JS and Mongo DB.
