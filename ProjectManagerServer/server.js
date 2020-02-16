@@ -11,7 +11,7 @@ const express = require('express'),
       taskController = require('./controllers/task.controller');
 
 const app = express();
-var port = process.env.PORT || 4300;
+var port = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(bodyParser.json());
